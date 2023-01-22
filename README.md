@@ -1,6 +1,6 @@
 # COVER PAGE DESIGN USING HTML AND CSS
 ## AIM:
-To design a website to create a webpage displaying the cover page of the book "Responsive Web Design with HTML5 and CSS".
+To design a website to create a webpage displaying the cover page of the book .
 
 ## DESIGN STEPS:
 ### Step 1:
@@ -16,7 +16,7 @@ Create a templates folder under the app folder followed by a folder under templa
 Write HTML and CSS code in the file save it and run the app using python manage.py makemigrations and python manage.py migrate commands .Run the Server using "python3 manage.py runserver 0:80" command.
 
 ### STEP 5:-
-The Website is published.We created a webpage displaying the cover page of the book "Responsive Web Design with HTML5 and CSS".
+The Website is published.We created a webpage displaying the cover page of the book .
 
 ## Code:
 ```
@@ -141,4 +141,4 @@ The Website is published.We created a webpage displaying the cover page of the b
 
 
 ## Result:
-Successfully designed a website to display the cover page of the book "Responsive Web Design with HTML5 and CSS".
+Successfully designed a website to display the cover page of the book .
